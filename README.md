@@ -8,4 +8,4 @@
 | Project Sourcecode | https://github.com/pureexe/WhatsYourGrade/archive/v1.0.0.zip |
 
 ## ภาพตัวอย่าง
-![](https://i.imgur.com/2ugvXmM.png)
+![](https://i.imgur.com/P9mozQw.png)
