@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_label">คุณได้เกรดอะไร?</string>
+    <string name="exit_button">ออก</string>
+    <string name="find_grade_button">คำนวณเกรด</string>
+    <string name="form1_label">ป้อนชื่อและคะแนนของคุณ</string>
+    <string name="name_label">ชื่อ</string>
+    <string name="score_label">คะแนน</string>
+    <string name="fill_your_name">ป้อนชื่อ</string>
+    <string name="fill_your_score">ป้อนคะแนน</string>
+</resources>
